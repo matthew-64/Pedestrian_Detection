@@ -1,12 +1,41 @@
-Team2
+# Introduction
 
-Our report and user guide are stored in docs. 
+By training on a set of images which either are or are not people, various ML techniques as described below will be used to track people in a video.
 
-If you have any issues setting our project up, interpreting or
-interpreting the user guide - please do not hesitate to contact one of
-us below for guidance. 
+**For the full report on the training, testing, results, analysis and conclusions, please see [`report.pdf`](./report.pdf)**
 
-Jonathan Kernaghan - jkernaghan03@qub.ac.uk
-Matthew Elliott - melliot21@qub.ac.uk
-David Bradley - bdradley19@qub.ac.uk
+### Resulting Pedestrian detection
 
+[![Alt text](./readme_resources/demo_thumbnail.png?raw=true "Title")](https://youtu.be/1pGwMrYjyYQ)
+
+# Topics covered in [`report.pdf`](./report.pdf)
+
+**Training**
+- Preprocessing Overview
+  - Histogram Equalisation
+  - Power Law
+  - Linear Stretching
+  - Feature Extraction using Histogram of Gradients
+- Dimensionality Reduction using PCA and LDA
+- Potential Learning Model Candidates - SVM, RF & NN/KNN
+- Hyperparameter Optimisations
+- Pretesting Formulation of Hypothesis
+
+**Testing**
+
+- Testing Overview
+  - Hold-Out
+  - K-Fold
+- Quantitative Analysis of Cross-Validation Results
+  - ROC graphs for models
+- Post-testing Evaluation of Hypothesis
+- Chosen Method
+
+**Detection**
+
+- Sliding Window
+- Non-Maxima Suppression
+- Visual Analysis of Detection Results
+- Quantitative Analysis of Detection Results vs Ground Truth
+
+**Conclusion**
