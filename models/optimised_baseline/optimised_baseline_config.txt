@@ -1,0 +1,2 @@
+Scale = 1:0.1:5, Step = 20, Score Cut Off = 0.85, Workers = 8
+C = 37.894; sigmakernel=3.465;

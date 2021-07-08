@@ -1,0 +1,35 @@
+Timeline:
+
+    Week1:
+        - make shared algo
+              - histeq (Jonny)
+              - PL (David)
+              - LS (Matt)
+        - Preprocess all pics and the video
+        - Have feature extraction done (open, close etc...)
+        - Analise what the preprocessing does and pick the best one
+              - analise a sample and make a quick argument for/against
+        - Decide who is doing what learning algo
+
+    Week2:
+        - implement the decided learning algo
+
+        - Make a sliding window
+        - Make NMS
+        - INSERT TASK HERE
+
+    Week3:
+    - DEMO ON WED 11TH MARCH
+        - prepare the demo
+        - finish learning algo
+        - Decide what what we want to evaluate our models
+
+    Week4:
+    - Calculate which algo is best based on the test.dataset
+    - Write an analysis of the algo
+    - decide which is best
+    - write an intro
+    - write a conclusion
+
+    Week5:
+    - DUE ON THURSDAY

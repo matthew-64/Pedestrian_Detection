@@ -1,0 +1,27 @@
+HE Results
+Accuracies = 1) 97.500000, 2) 97.000000, 3) 96.666667, 4) 96.666667, 5) 97.166667
+Mean Accuracy = 97.000000
+Mean Recall = 0.777727
+Mean Precision = 0.773305
+Mean Specificity = 0.770334
+Mean F Measure = 0.769582
+Mean F.A.R = 0.774108
+
+PL Results
+Accuracies = 1) 97.500000, 2) 97.333333, 3) 97.333333, 4) 97.833333, 5) 97.333333
+Mean Accuracy = 97.466667
+Mean Recall = 0.778075
+Mean Precision = 0.775670
+Mean Specificity = 0.775797
+Mean F Measure = 0.780454
+Mean F.A.R = 0.775879
+
+LS Results
+Accuracies = 1) 97.500000, 2) 97.166667, 3) 97.000000, 4) 97.666667, 5) 98.333333
+Mean Accuracy = 97.533333
+Mean Recall = 0.778075
+Mean Precision = 0.774438
+Mean Specificity = 0.772766
+Mean F Measure = 0.778720
+Mean F.A.R = 0.784858
+
