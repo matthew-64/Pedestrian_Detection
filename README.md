@@ -1,6 +1,13 @@
 # Introduction
 
-By training on a set of images which either are or are not people, various ML techniques as described below will be used to track people in a video.
+Through a series of preprocessing image data, dimensionality reduction, and hyper paramater optomisations on machine learning models, a pedestrian detector was created with the following results:
+- Overall Accuracy 0.6881
+- Recall 0.5702
+- Precision 0.7093
+- F Measure 0.6322
+
+Please see the youtube video below.
+
 
 **For the full report on the training, testing, results, analysis and conclusions, please see [`report.pdf`](./report.pdf)**
 
