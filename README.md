@@ -1,6 +1,6 @@
 # Introduction
 
-Through a series of preprocessing image data, dimensionality reduction, and hyper paramater optomisations on machine learning models, a pedestrian detector was created with the following results:
+Through a series of preprocessing image data, dimensionality reduction, and hyper parameter optomisations on machine learning models, a pedestrian detector was created with the following results:
 - Overall Accuracy 0.6881
 - Recall 0.5702
 - Precision 0.7093
